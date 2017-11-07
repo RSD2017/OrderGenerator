@@ -1,0 +1,14035 @@
+Order 1
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 2
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 3
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 4
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 5
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 6
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 7
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 8
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 9
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 10
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 11
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 12
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 13
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 14
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 15
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 16
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 17
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 18
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 19
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 20
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 21
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 22
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 23
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 24
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 25
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 26
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 27
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 28
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 29
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 30
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 31
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 32
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 33
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 34
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 35
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 36
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 37
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 38
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 39
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 40
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 41
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 42
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 43
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 44
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 45
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 46
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 47
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 48
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 49
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 50
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 51
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 52
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 53
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 54
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 55
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 56
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 57
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 58
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 59
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 60
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 61
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 62
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 63
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 64
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 65
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 66
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 67
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 68
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 69
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 70
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 71
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 72
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 73
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 74
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 75
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 76
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 77
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 78
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 79
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 80
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 81
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 82
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 83
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 84
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 85
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 86
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 87
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 88
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 89
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 90
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 91
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 92
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 93
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 94
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 95
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 96
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 97
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 98
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 99
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 100
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 101
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 102
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 103
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 104
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 105
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 106
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 107
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 108
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 109
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 110
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 111
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 112
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 113
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 114
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 115
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 116
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 117
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 118
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 119
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 120
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 121
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 122
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 123
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 124
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 125
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 126
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 127
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 128
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 129
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 130
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 131
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 132
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 133
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 134
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 135
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 136
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 137
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 138
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 139
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 140
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 141
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 142
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 143
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 144
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 145
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 146
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 147
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 148
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 149
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 150
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 151
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 152
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 153
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 154
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 155
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 156
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 157
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 158
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 159
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 160
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 161
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 162
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 163
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 164
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 165
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 166
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 167
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 168
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 169
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 170
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 171
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 172
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 173
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 174
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 175
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 176
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 177
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 178
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 179
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 180
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 181
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 182
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 183
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 184
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 185
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 186
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 187
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 188
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 189
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 190
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 191
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 192
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 193
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 194
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 195
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 196
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 197
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 198
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 199
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 200
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 201
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 202
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 203
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 204
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 205
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 206
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 207
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 208
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 209
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 210
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 211
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 212
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 213
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 214
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 215
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 216
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 217
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 218
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 219
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 220
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 221
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 222
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 223
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 224
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 225
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 226
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 227
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 228
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 229
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 230
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 231
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 232
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 233
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 234
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 235
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 236
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 237
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 238
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 239
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 240
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 241
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 242
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 243
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 244
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 245
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 246
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 247
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 248
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 249
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 250
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 251
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 252
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 253
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 254
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 255
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 256
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 257
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 258
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 259
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 260
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 261
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 262
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 263
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 264
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 265
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 266
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 267
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 268
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 269
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 270
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 271
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 272
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 273
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 274
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 275
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 276
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 277
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 278
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 279
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 280
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 281
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 282
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 283
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 284
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 285
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 286
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 287
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 288
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 289
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 290
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 291
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 292
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 293
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 294
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 295
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 296
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 297
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 298
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 299
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 300
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 301
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 302
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 303
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 304
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 305
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 306
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 307
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 308
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 309
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 310
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 311
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 312
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 313
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 314
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 315
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 316
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 317
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 318
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 319
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 320
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 321
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 322
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 323
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 324
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 325
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 326
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 327
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 328
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 329
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 330
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 331
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 332
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 333
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 334
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 335
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 336
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 337
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 338
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 339
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 340
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 341
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 342
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 343
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 344
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 345
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 346
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 347
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 348
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 349
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 350
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 351
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 352
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 353
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 354
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 355
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 356
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 357
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 358
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 359
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 360
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 361
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 362
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 363
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 364
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 365
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 366
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 367
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 368
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 369
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 370
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 371
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 372
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 373
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 374
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 375
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 376
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 377
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 378
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 379
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 380
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 381
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 382
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 383
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 384
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 385
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 386
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 387
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 388
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 389
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 390
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 391
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 392
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 393
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 394
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 395
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 396
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 397
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 398
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 399
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 400
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 401
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 402
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 403
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 404
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 405
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 406
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 407
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 408
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 409
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 410
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 411
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 412
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 413
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 414
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 415
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 416
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 417
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 418
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 419
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 420
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 421
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 422
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 423
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 424
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 425
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 426
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 427
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 428
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 429
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 430
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 431
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 432
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 433
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 434
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 435
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 436
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 437
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 438
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 439
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 440
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 441
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 442
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 443
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 444
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 445
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 446
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 447
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 448
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 449
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 450
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 451
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 452
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 453
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 454
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 455
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 456
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 457
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 458
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 459
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 460
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 461
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 462
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 463
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 464
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 465
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 466
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 467
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 468
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 469
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 470
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 471
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 472
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 473
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 474
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 475
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 476
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 477
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 478
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 479
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 480
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 481
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 482
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 483
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 484
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 485
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 486
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 487
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 488
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 489
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 490
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 491
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 492
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 493
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 494
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 495
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 496
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 497
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 498
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 499
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 500
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 501
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 502
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 503
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 504
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 505
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 506
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 507
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 508
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 509
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 510
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 511
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 512
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 513
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 514
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 515
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 516
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 517
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 518
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 519
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 520
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 521
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 522
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 523
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 524
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 525
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 526
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 527
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 528
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 529
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 530
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 531
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 532
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 533
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 534
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 535
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 536
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 537
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 538
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 539
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 540
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 541
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 542
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 543
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 544
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 545
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 546
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 547
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 548
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 549
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 550
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 551
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 552
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 553
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 554
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 555
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 556
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 557
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 558
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 559
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 560
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 561
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 562
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 563
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 564
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 565
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 566
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 567
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 568
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 569
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 570
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 571
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 572
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 573
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 574
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 575
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 576
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 577
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 578
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 579
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 580
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 581
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 582
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 583
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 584
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 585
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 586
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 587
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 588
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 589
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 590
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 591
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 592
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 593
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 594
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 595
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 596
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 597
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 598
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 599
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 600
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 601
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 602
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 603
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 604
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 605
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 606
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 607
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 608
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 609
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 610
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 611
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 612
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 613
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 614
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 615
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 616
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 617
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 618
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 619
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 620
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 621
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 622
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 623
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 624
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 625
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 626
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 627
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 628
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 629
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 630
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 631
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 632
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 633
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 634
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 635
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 636
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 637
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 638
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 639
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 640
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 641
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 642
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 643
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 644
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 645
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 646
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 647
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 648
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 649
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 650
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 651
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 652
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 653
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 654
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 655
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 656
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 657
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 658
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 659
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 660
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 661
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 662
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 663
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 664
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 665
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 666
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 667
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 668
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 669
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 670
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 671
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 672
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 673
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 674
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 675
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 676
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 677
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 678
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 679
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 680
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 681
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 682
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 683
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 684
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 685
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 686
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 687
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 688
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 689
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 690
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 691
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 692
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 693
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 694
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 695
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 696
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 697
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 698
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 699
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 700
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 701
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 702
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 703
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 704
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 705
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 706
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 707
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 708
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 709
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 710
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 711
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 712
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 713
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 714
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 715
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 716
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 717
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 718
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 719
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 720
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 721
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 722
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 723
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 724
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 725
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 726
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 727
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 728
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 729
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 730
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 731
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 732
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 733
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 734
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 735
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 736
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 737
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 738
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 739
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 740
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 741
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 742
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 743
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 744
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 745
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 746
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 747
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 748
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 749
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 750
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 751
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 752
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 753
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 754
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 755
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 756
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 757
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 758
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 759
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 760
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 761
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 762
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 763
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 764
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 765
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 766
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 767
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 768
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 769
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 770
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 771
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 772
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 773
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 774
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 775
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 776
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 777
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 778
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 779
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 780
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 781
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 782
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 783
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 784
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 785
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 786
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 787
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 788
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 789
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 790
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 791
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 792
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 793
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 794
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 795
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 796
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 797
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 798
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 799
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 800
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 801
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 802
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 803
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 804
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 805
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 806
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 807
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 808
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 809
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 810
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 811
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 812
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 813
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 814
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 815
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 816
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 817
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 818
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 819
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 820
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 821
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 822
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 823
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 824
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 825
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 826
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 827
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 828
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 829
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 830
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 831
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 832
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 833
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 834
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 835
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 836
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 837
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 838
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 839
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 840
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 841
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 842
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 843
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 844
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 845
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 846
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 847
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 848
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 849
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 850
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 851
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 852
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 853
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 854
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 855
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 856
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 857
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 858
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 859
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 860
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 861
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 862
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 863
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 864
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 865
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 866
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 867
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 868
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 869
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 870
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 871
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 872
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 873
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 874
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 875
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 876
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 877
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 878
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 879
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 880
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 881
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 882
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 883
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 884
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 885
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 886
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 887
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 888
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 889
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 890
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 891
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 892
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 893
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 894
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 895
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 896
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 897
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 898
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 899
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 900
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 901
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 902
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 903
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 904
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 905
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 906
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 907
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 908
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 909
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 910
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 911
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 912
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 913
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 914
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 915
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 916
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 917
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 918
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 919
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 920
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 921
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 922
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 923
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 924
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 925
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 926
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 927
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 928
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 929
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 930
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 931
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 932
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 933
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 934
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 935
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 936
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 937
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 938
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 939
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 940
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 941
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 942
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 943
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 944
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 945
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 946
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 947
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 948
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 949
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 950
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 951
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 952
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 953
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 954
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 955
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 956
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 957
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 958
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 959
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 960
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 961
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 962
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 963
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 964
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 965
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 966
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 967
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 968
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 969
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 970
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 971
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 972
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 973
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 974
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 975
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 976
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 977
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 978
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 979
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 980
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 981
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 982
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 983
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 984
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 985
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 986
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 987
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 988
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 989
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 990
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 991
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 992
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 993
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 994
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 995
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 996
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 997
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 998
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 999
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1000
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1001
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1002
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1003
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1004
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1005
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1006
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1007
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1008
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1009
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1010
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1011
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1012
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1013
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1014
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1015
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1016
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1017
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1018
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1019
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1020
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1021
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1022
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1023
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1024
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1025
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1026
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1027
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1028
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1029
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1030
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1031
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1032
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1033
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1034
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1035
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1036
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1037
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1038
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1039
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1040
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1041
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1042
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1043
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1044
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1045
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1046
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1047
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1048
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1049
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1050
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1051
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1052
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1053
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1054
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1055
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1056
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1057
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1058
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1059
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1060
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1061
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1062
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1063
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1064
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1065
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1066
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1067
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1068
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1069
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1070
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1071
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1072
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1073
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1074
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1075
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1076
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1077
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1078
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1079
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1080
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1081
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1082
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1083
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1084
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1085
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1086
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1087
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1088
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1089
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1090
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1091
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1092
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1093
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1094
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1095
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1096
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1097
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1098
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1099
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1100
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1101
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1102
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1103
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1104
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1105
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1106
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1107
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1108
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1109
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1110
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1111
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1112
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1113
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1114
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1115
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1116
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1117
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1118
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1119
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1120
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1121
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1122
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1123
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1124
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1125
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1126
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1127
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1128
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1129
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1130
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1131
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1132
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1133
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1134
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1135
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1136
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1137
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1138
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1139
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1140
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1141
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1142
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1143
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1144
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1145
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1146
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1147
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1148
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1149
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1150
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1151
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1152
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1153
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1154
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1155
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1156
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1157
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1158
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1159
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1160
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1161
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1162
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1163
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1164
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1165
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1166
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1167
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1168
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1169
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1170
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1171
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1172
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1173
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1174
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1175
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1176
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1177
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1178
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1179
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1180
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1181
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1182
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1183
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1184
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1185
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1186
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1187
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1188
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1189
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1190
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1191
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1192
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1193
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1194
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1195
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1196
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1197
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1198
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1199
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1200
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1201
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1202
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1203
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1204
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1205
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1206
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1207
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1208
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1209
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1210
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1211
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1212
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1213
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1214
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1215
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1216
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1217
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1218
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1219
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1220
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1221
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1222
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1223
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1224
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1225
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1226
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1227
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1228
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1229
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1230
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1231
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1232
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1233
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1234
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1235
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1236
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1237
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1238
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1239
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1240
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1241
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1242
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1243
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1244
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1245
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1246
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1247
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1248
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1249
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1250
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1251
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1252
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1253
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1254
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1255
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1256
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1257
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1258
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1259
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1260
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1261
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1262
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1263
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1264
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1265
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1266
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1267
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1268
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1269
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1270
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1271
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1272
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1273
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1274
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1275
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1276
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1277
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1278
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1279
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1280
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1281
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1282
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1283
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1284
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1285
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1286
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1287
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1288
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1289
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1290
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1291
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1292
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1293
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1294
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1295
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1296
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1297
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1298
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1299
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1300
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1301
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1302
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1303
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1304
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1305
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1306
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1307
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1308
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1309
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1310
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1311
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1312
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1313
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1314
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1315
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1316
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1317
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1318
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1319
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1320
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1321
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1322
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1323
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1324
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1325
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1326
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1327
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1328
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1329
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1330
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1331
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1332
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1333
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1334
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1335
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1336
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1337
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1338
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1339
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1340
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1341
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1342
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1343
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1344
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1345
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1346
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1347
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1348
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1349
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1350
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1351
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1352
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1353
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1354
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1355
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1356
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1357
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1358
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1359
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1360
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1361
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1362
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1363
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1364
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1365
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1366
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1367
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1368
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1369
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1370
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1371
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1372
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1373
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1374
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1375
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1376
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1377
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1378
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1379
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1380
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1381
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1382
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1383
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1384
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1385
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1386
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1387
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1388
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1389
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1390
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1391
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1392
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1393
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1394
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1395
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1396
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1397
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1398
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1399
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1400
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1401
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1402
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1403
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1404
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1405
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1406
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1407
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1408
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1409
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1410
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1411
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1412
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1413
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1414
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1415
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1416
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1417
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1418
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1419
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1420
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1421
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1422
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1423
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1424
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1425
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1426
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1427
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1428
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1429
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1430
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1431
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1432
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1433
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1434
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1435
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1436
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1437
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1438
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1439
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1440
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1441
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1442
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1443
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1444
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1445
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1446
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1447
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1448
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1449
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1450
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1451
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1452
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1453
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1454
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1455
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1456
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1457
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1458
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1459
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1460
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1461
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1462
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1463
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1464
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1465
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1466
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1467
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1468
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1469
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1470
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1471
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1472
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1473
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1474
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1475
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1476
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1477
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1478
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1479
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1480
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1481
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1482
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1483
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1484
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1485
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1486
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1487
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1488
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1489
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1490
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1491
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1492
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1493
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1494
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1495
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1496
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1497
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1498
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1499
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1500
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1501
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1502
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1503
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1504
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1505
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1506
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1507
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1508
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1509
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1510
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1511
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1512
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1513
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1514
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1515
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1516
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1517
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1518
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1519
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1520
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1521
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1522
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1523
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1524
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1525
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1526
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1527
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1528
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1529
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1530
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1531
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1532
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1533
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1534
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1535
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1536
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1537
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1538
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1539
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1540
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1541
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1542
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1543
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1544
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1545
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1546
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1547
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1548
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1549
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1550
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1551
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1552
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1553
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1554
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1555
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1556
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1557
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1558
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1559
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1560
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1561
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1562
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1563
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1564
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1565
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1566
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1567
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1568
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1569
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1570
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1571
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1572
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1573
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1574
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1575
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1576
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1577
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1578
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1579
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1580
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1581
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1582
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1583
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1584
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1585
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1586
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1587
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1588
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1589
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1590
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1591
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1592
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1593
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1594
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1595
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1596
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1597
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1598
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1599
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1600
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1601
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1602
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1603
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1604
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1605
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1606
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1607
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1608
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1609
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1610
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1611
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1612
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1613
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1614
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1615
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1616
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1617
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1618
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1619
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1620
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1621
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1622
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1623
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1624
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1625
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1626
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1627
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1628
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1629
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1630
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1631
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1632
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1633
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1634
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1635
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1636
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1637
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1638
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1639
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1640
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1641
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1642
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1643
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1644
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1645
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1646
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1647
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1648
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1649
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1650
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1651
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1652
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1653
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1654
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1655
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1656
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1657
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1658
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1659
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1660
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1661
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1662
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1663
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1664
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1665
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1666
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1667
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1668
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1669
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1670
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1671
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1672
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1673
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1674
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1675
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1676
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1677
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1678
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1679
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1680
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1681
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1682
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1683
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1684
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1685
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1686
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1687
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1688
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1689
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1690
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1691
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1692
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1693
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1694
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1695
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1696
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1697
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1698
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1699
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1700
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1701
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1702
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1703
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1704
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1705
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1706
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1707
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1708
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1709
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1710
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1711
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1712
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1713
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1714
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1715
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1716
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1717
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1718
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1719
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1720
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1721
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1722
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1723
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1724
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1725
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1726
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1727
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1728
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1729
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1730
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1731
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1732
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1733
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1734
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1735
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1736
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1737
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1738
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1739
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1740
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1741
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1742
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1743
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1744
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1745
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1746
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1747
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1748
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1749
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1750
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1751
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1752
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1753
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1754
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1755
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1756
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1757
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1758
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1759
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1760
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1761
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1762
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1763
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1764
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1765
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1766
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1767
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1768
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1769
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1770
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1771
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1772
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1773
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1774
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1775
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1776
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1777
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1778
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1779
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1780
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1781
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1782
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1783
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1784
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1785
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1786
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1787
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1788
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1789
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1790
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1791
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1792
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1793
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1794
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1795
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1796
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1797
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1798
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1799
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1800
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1801
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1802
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1803
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1804
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1805
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1806
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1807
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1808
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1809
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1810
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1811
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1812
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1813
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1814
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1815
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1816
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1817
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1818
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1819
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1820
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1821
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1822
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1823
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1824
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1825
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1826
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1827
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1828
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1829
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1830
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1831
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1832
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1833
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1834
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1835
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1836
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1837
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1838
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1839
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1840
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1841
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1842
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1843
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1844
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1845
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1846
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1847
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1848
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1849
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1850
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1851
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1852
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1853
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1854
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1855
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1856
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1857
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1858
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1859
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1860
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1861
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1862
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1863
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1864
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1865
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1866
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1867
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1868
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1869
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1870
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1871
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1872
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1873
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1874
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1875
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1876
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1877
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1878
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1879
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1880
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1881
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1882
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1883
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1884
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1885
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1886
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1887
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1888
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1889
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1890
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1891
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1892
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1893
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1894
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1895
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1896
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1897
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1898
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1899
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1900
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1901
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1902
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1903
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1904
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1905
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1906
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1907
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1908
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1909
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1910
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1911
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1912
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1913
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1914
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1915
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1916
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1917
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1918
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1919
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1920
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1921
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1922
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1923
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1924
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1925
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1926
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1927
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1928
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1929
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1930
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1931
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1932
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1933
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1934
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1935
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1936
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1937
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1938
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1939
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1940
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1941
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1942
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1943
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1944
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1945
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1946
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1947
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1948
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1949
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1950
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1951
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1952
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1953
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1954
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1955
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1956
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1957
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1958
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1959
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1960
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1961
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1962
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1963
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1964
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1965
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1966
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1967
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1968
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1969
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1970
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1971
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1972
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1973
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1974
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1975
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1976
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1977
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1978
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1979
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1980
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1981
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1982
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1983
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1984
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1985
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1986
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1987
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1988
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1989
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1990
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1991
+	 Taks 1 0 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1992
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1993
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1994
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1995
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1996
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1997
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+EndOrder
+
+Order 1998
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+EndOrder
+
+Order 1999
+	 Taks 1 1 0
+	 Taks 1 0 0
+	 Taks 1 0 0
+	 Taks 1 1 0
+EndOrder
+
+Order 2000
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 1 0
+	 Taks 1 0 0
+EndOrder
+
