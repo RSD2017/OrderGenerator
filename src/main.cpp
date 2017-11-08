@@ -14,11 +14,29 @@ int main(int argc, char* argv[])
         file << "Order " << i << "\n";
         int parts = rand() % 3 + 3;
         for (size_t j = 0; j < parts; j++ ) {
-            int number = rand() % 3;
-            if (number > 0)
-                file << "\t Taks 1 1 0\n";
+
+            int type = rand() % 3, new_type;
+            int repetition = 0;
+
+            for (int i = 0; i < 3; i++)
+            {
+                if (repetition != 7)
+                    new_type = rand() % 3;
+                else
+                {
+                    new_type = rand() % 2;
+                    if (new_type >= type)
+                        new_type++;
+                }
+
+                repetition = new_type == type ? repetition + 1 : 0;
+                type = new_type;
+            }
+
+            if (type > 0)
+                file << "\t Task 1 1 0\n";
             else
-                file << "\t Taks 1 0 0\n";
+                file << "\t Task 1 0 0\n";
         }
         file << "EndOrder\n\n";
     }
